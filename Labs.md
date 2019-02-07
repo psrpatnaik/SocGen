@@ -1,5 +1,6 @@
 # Lab Sessions (AWS)
 - [Getting Started on Amazon Web Services (AWS)](https://aws.amazon.com/getting-started/)
+- [Free 7 Hours AWS Cloud Practitioner Essentials Course (First Edition)](https://www.aws.training/learningobject/curriculum?id=16357)
 ## Day 1
 
  - [How to Launch a Linux Virtual Machine – AWS](https://aws.amazon.com/getting-started/tutorials/launch-a-virtual-machine/)
@@ -15,7 +16,9 @@
 - [How to Launch a Web Application – Amazon Web Services](https://aws.amazon.com/getting-started/tutorials/launch-an-app/)
 - [Build a WordPress Website](https://aws.amazon.com/getting-started/projects/build-wordpress-website/)
 - [How to create a Network File System - Amazon Web Services (AWS)](https://aws.amazon.com/getting-started/tutorials/create-network-file-system/)
-
+- [Sending Linux logs to AWS Cloudwatch](https://medium.com/tensult/to-send-linux-logs-to-aws-cloudwatch-17b3ea5f4863)
+- [Analyze Log Data with CloudWatch Logs Insights](https://docs.aws.amazon.com/AmazonCloudWatch/latest/logs/AnalyzingLogData.html)
+- [Getting Started with Amazon EC2 Auto Scaling](https://docs.aws.amazon.com/autoscaling/ec2/userguide/GettingStartedTutorial.html)
 ## Day 3
 - [How to set up a continuous deployment pipeline - Amazon Web Services](https://aws.amazon.com/getting-started/tutorials/continuous-deployment-pipeline/)
 - [How to set up a Continuous Integration and Delivery (CI/CD) Pipeline](https://aws.amazon.com/getting-started/projects/set-up-ci-cd-pipeline/)
