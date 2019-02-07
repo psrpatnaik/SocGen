@@ -19,7 +19,7 @@
 - [Sending Linux logs to AWS Cloudwatch](https://medium.com/tensult/to-send-linux-logs-to-aws-cloudwatch-17b3ea5f4863)
 - [Analyze Log Data with CloudWatch Logs Insights](https://docs.aws.amazon.com/AmazonCloudWatch/latest/logs/AnalyzingLogData.html)
 - [Getting Started with Amazon EC2 Auto Scaling](https://docs.aws.amazon.com/autoscaling/ec2/userguide/GettingStartedTutorial.html)
+- [Getting Started with Application Load Balancers](https://docs.aws.amazon.com/elasticloadbalancing/latest/application/application-load-balancer-getting-started.html)
 ## Day 3
 - [How to set up a continuous deployment pipeline - Amazon Web Services](https://aws.amazon.com/getting-started/tutorials/continuous-deployment-pipeline/)
 - [How to set up a Continuous Integration and Delivery (CI/CD) Pipeline](https://aws.amazon.com/getting-started/projects/set-up-ci-cd-pipeline/)
-
