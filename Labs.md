@@ -1,5 +1,12 @@
 # Lab Sessions (AWS)
 - [Getting Started on Amazon Web Services (AWS)](https://aws.amazon.com/getting-started/)
+- [AWS Global Infrastructure](https://aws.amazon.com/about-aws/global-infrastructure/)
+- [AWS Region Table](https://aws.amazon.com/about-aws/global-infrastructure/regional-product-services/)
+- [Reasons for choosing AWS](https://aws.amazon.com/choosing-a-cloud-platform/)
+- [AWS Free Tier](https://aws.amazon.com/free/)
+- [AWS Documentation and User Guides](https://docs.aws.amazon.com/index.html#lang/en_us)
+- [Tools for Amazon Web Services](https://aws.amazon.com/tools/)
+- [AWS Code Sample Catalog](https://docs.aws.amazon.com/code-samples/latest/catalog/welcome.html)
 - [Free 7 Hours AWS Cloud Practitioner Essentials Course (First Edition)](https://www.aws.training/learningobject/curriculum?id=16357)
 ## Day 1
 
