@@ -20,6 +20,15 @@
 - [Analyze Log Data with CloudWatch Logs Insights](https://docs.aws.amazon.com/AmazonCloudWatch/latest/logs/AnalyzingLogData.html)
 - [Getting Started with Amazon EC2 Auto Scaling](https://docs.aws.amazon.com/autoscaling/ec2/userguide/GettingStartedTutorial.html)
 - [Getting Started with Application Load Balancers](https://docs.aws.amazon.com/elasticloadbalancing/latest/application/application-load-balancer-getting-started.html)
+### Amazon VPC
+- [VPC Design and New Capabilities for Amazon VPC (video)](https://www.youtube.com/watch?v=rQvl-V3tLiQ)
+- [Guide: Concepts Terminologies in VPC](https://docs.aws.amazon.com/vpc/latest/userguide/what-is-amazon-vpc.html)
+- [Scenario 1: VPC with a Single Public Subnet - Amazon Virtual Private Cloud](https://docs.aws.amazon.com/vpc/latest/userguide/VPC_Scenario1.html)
+- [Scenario 2: VPC with Public and Private Subnets (NAT) - Amazon Virtual Private Cloud](https://docs.aws.amazon.com/vpc/latest/userguide/VPC_Scenario2.html)
+- [Example: Create an IPv4 VPC and Subnets Using the AWS CLI - Amazon Virtual Private Cloud](https://docs.aws.amazon.com/vpc/latest/userguide/vpc-subnets-commands-example.html)
+
 ## Day 3
+
 - [How to set up a continuous deployment pipeline - Amazon Web Services](https://aws.amazon.com/getting-started/tutorials/continuous-deployment-pipeline/)
 - [How to set up a Continuous Integration and Delivery (CI/CD) Pipeline](https://aws.amazon.com/getting-started/projects/set-up-ci-cd-pipeline/)
+
