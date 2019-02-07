@@ -1,0 +1,2 @@
+# SocGen
+AWS Training resources
