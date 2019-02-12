@@ -8,6 +8,7 @@
 - [Tools for Amazon Web Services](https://aws.amazon.com/tools/)
 - [AWS Code Sample Catalog](https://docs.aws.amazon.com/code-samples/latest/catalog/welcome.html)
 - [Free 7 Hours AWS Cloud Practitioner Essentials Course (First Edition)](https://www.aws.training/learningobject/curriculum?id=16357)
+- [S3 Storage Classes](https://docs.aws.amazon.com/AmazonS3/latest/dev/storage-class-intro.html)
 ## Day 1
 
  - [How to Launch a Linux Virtual Machine – AWS](https://aws.amazon.com/getting-started/tutorials/launch-a-virtual-machine/)
