@@ -10,7 +10,7 @@
 - [Free 7 Hours AWS Cloud Practitioner Essentials Course (First Edition)](https://www.aws.training/learningobject/curriculum?id=16357)
 - [S3 Storage Classes](https://docs.aws.amazon.com/AmazonS3/latest/dev/storage-class-intro.html)
 - [IAM Policies and Bucket Policies and ACLs](https://aws.amazon.com/blogs/security/iam-policies-and-bucket-policies-and-acls-oh-my-controlling-access-to-s3-resources/)
-- [S3 Example Bucket Policies] (https://docs.aws.amazon.com/AmazonS3/latest/dev/example-bucket-policies.html)
+- [S3 Example Bucket Policies](https://docs.aws.amazon.com/AmazonS3/latest/dev/example-bucket-policies.html)
 ## Day 1
 
  - [How to Launch a Linux Virtual Machine – AWS](https://aws.amazon.com/getting-started/tutorials/launch-a-virtual-machine/)
