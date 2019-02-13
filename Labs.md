@@ -38,7 +38,9 @@
 - [Example: Create an IPv4 VPC and Subnets Using the AWS CLI - Amazon Virtual Private Cloud](https://docs.aws.amazon.com/vpc/latest/userguide/vpc-subnets-commands-example.html)
 
 ## Day 3
-
+- [CodeDeploy Tutorials](https://docs.aws.amazon.com/codedeploy/latest/userguide/tutorials.html)
+- [Tutorial: Use CodeDeploy to Deploy an Application to an Amazon EC2 Auto Scaling Group](https://docs.aws.amazon.com/codedeploy/latest/userguide/tutorials-auto-scaling-group.html)
+- [Tutorial: Use CodeDeploy to Deploy an Application from GitHub](https://docs.aws.amazon.com/codedeploy/latest/userguide/tutorials-github.html)
 - [How to set up a continuous deployment pipeline - Amazon Web Services](https://aws.amazon.com/getting-started/tutorials/continuous-deployment-pipeline/)
 - [How to set up a Continuous Integration and Delivery (CI/CD) Pipeline](https://aws.amazon.com/getting-started/projects/set-up-ci-cd-pipeline/)
 
